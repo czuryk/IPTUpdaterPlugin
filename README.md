@@ -6,7 +6,7 @@ This plugin runs every 10 seconds and monitors changes in Wi-Fi settings. When t
 Tested on physical device Samsung S24 Ultra with Android 14.
 
 # How to
-1) Root your Android device using using Magisk.
+1) Root your Android device using Magisk.
 2) Complete any pending updates for Magisk, and make sure you have the latest Magisk version.
 3) Install your custom CA certificate under user certificate store (you can use Cert-Fixer to place them into system storage)
 4) Download IPTUpdaterPlugin.zip and install Plugin module in Magisk.
