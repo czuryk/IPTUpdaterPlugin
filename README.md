@@ -22,5 +22,5 @@ Manually changing the data in iptables is not convenient, especially considering
 This script provides an easy and seamless way to switch to another network and immediately apply the required proxy without the need for additional actions.
 Even if ProxyDroid is working well, this plugin is focused on greater automation. It removes the need for any additional steps to start intercepting the traffic of Flutter applications.
 
-# Attention
+# Disclaimer
 This script is provided "as is" without warranties of any kind. By using this script, you acknowledge that you do so at your own risk.
