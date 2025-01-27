@@ -3,5 +3,5 @@ name=IP Tables updater
 version=1.0
 versionCode=1
 author=Mike Sevbo
-description=This script detecting proxy changes in current wifi network and update iptables corresponently
+description=This script detects proxy changes in the current Wi-Fi network and updates the iptables accordingly.
 support=https://github.com/TBD
