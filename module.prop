@@ -4,4 +4,4 @@ version=1.0
 versionCode=1
 author=Mike Sevbo
 description=This script detects proxy changes in the current Wi-Fi network and updates the iptables accordingly.
-support=https://github.com/TBD
+support=https://github.com/czuryk/IPTUpdaterPlugin
