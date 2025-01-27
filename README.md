@@ -1,4 +1,4 @@
-# IP Tables Updater Plugin - Flutter traffic interception helper
+# Magisk IP Tables Updater Plugin - Flutter traffic interception helper
 The IPTUpdaterPlugin is a Magisk module that automatically adds iptables entries based on the proxy configured in the Wi-Fi network settings. These entries are necessary for successfully intercepting traffic in Flutter applications, as Flutter does not use the Wi-Fi proxy configuration.
 
 This plugin runs every 10 seconds and monitors changes in Wi-Fi settings. When there are changes in the proxy settings, it adds or removes iptables entries accordingly.
