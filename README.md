@@ -14,7 +14,7 @@ Tested on physical device Samsung S24 Ultra with Android 14.
 The plugin will monitor Wi-Fi configuration changes and alter ip tables.
 
 # How to check script running
-Use the adb shell command to navigate to the /data/local/tmp/ipt_updater.log file. This file contains information about the plugin status. Try updating the proxy and observe any changes. You can also run the command **iptables -L -t nat** to retrieve all entries and ensure that the iptables configuration is current.
+Use the adb shell command to navigate to the **/data/local/tmp/ipt_updater.log** file. This file contains information about the plugin status. Try updating the proxy and observe any changes. You can also run the command **iptables -L -t nat** to retrieve all entries and ensure that the iptables configuration is current.
 
 # Description
 Due to the fact that for an unknown reason, the ProxyDroid app does not effectively modify the iptables, resulting in the inability to intercept Flutter traffic on Android 14.
