@@ -3,7 +3,7 @@ The IPTUpdaterPlugin is a Magisk module that automatically adds iptables entries
 
 This plugin runs every 10 seconds and monitors changes in Wi-Fi settings. When there are changes in the proxy settings, it adds or removes iptables entries accordingly.
 
-Currently tested device:
+Currently tested devices:
 - Samsung S24 Ultra with Android 14.
 - Samsung S22 with Android 13
 
